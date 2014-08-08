@@ -1,0 +1,3 @@
+APPLICATION_NAME=Daily Backup Folder
+EXECUTABLE=Daily Backup Folder.exe
+MANIFEST=http://www.commerce.uct.ac.za/Services/CodeUnit/AutoUpdate/Daily Backup Folder/manifest.xml

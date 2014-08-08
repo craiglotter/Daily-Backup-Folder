@@ -1,0 +1,10 @@
+Daily Backup Folder allows the user to select a folder which they wish to back up to another location, and then backs up that folder on a daily basis to the specified backup location.
+
+If an existing backup folder is located in the specified location, then Daily Backup Folder simply copies over newer files than those already existing in the backed up location.
+
+To change the application settings, click on the 'Settings' button. To force the application to perform a backup, click on the 'Force Backup' button. Should you wish to cancel a running backup operation, simply click on the 'Cancel' button.
+
+The about and help menu items brings up the about and help dialog screens respectively. The AutoUpdate option checks for any updates for this application.
+
+
+-- Last Updated: 04/06/2008 --
